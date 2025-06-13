@@ -1,0 +1,7 @@
+body{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: aliceblue;}
+h1{color: darkblue;text-align: center;}
+fieldset{margin-right: 50px; margin-left: 400px;}
+ul{text-align: center;}
+ol{text-align: center;}
+li{list-style: none;}
+table{margin-left: 400px; margin-right: 50px; border: 1px solid black; border-collapse: collapse;}
